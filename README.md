@@ -5,6 +5,33 @@
 🚀 Passionate about backend engineering, AI-assisted applications, and scalable architecture  
 
 ---
+## 🔗 Social Hub
+
+<p align="left">
+  <a href="mailto:ademrokh3@hotmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/adem-rokh-263b74390/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ademrokh">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/fl1cktsu">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/fl1cktsu">
+    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.threads.net/@fl1cktsu">
+    <img src="https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
+  </a>
+  <a href="https://discord.com/channels/@me/1359485216313311336">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -79,9 +106,3 @@ Training/session management system
 </p>
 
 
-
----
-
-## 📫 Contact  
-📧 **ademrokh3@hotmail.com**  
-🔗 **GitHub:** https://github.com/ademrokh
