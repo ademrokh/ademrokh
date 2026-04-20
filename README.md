@@ -72,7 +72,7 @@ Full-stack developer with hands-on experience delivering real-world applications
 
 ## Projects
 
-### Portail RH — AXELITES *(Stage PFE, 2025)*
+### Portail RH — AXELITES *(Stage PFE, 2025 — Projet collaboratif)*
 Secure HR portal for payslip consultation with OTP authentication and an AI chatbot assistant.
 - Authentification OTP avec stockage chiffré des fiches de paie
 - Chatbot IA (Gemini API) avec workflow admin/IA pour le traitement automatisé des demandes RH
@@ -88,7 +88,7 @@ Plateforme de location de voitures avec recherche géolocalisée et affichage ca
 - Système complet de réservation : authentification, disponibilité en temps réel, suivi et retour
 - Développement en binôme avec répartition des responsabilités frontend/backend
 
-**Stack:** Next.js, TypeScript, Prisma, Tailwind CSS
+**Stack:** Next.js, TypeScript, Prisma, Tailwind CSS, MongoDB
 
 ---
 
