@@ -72,16 +72,6 @@ Full-stack developer with hands-on experience delivering real-world applications
 
 ## Projects
 
-### Portail RH — AXELITES *(Stage PFE, 2025 — Projet collaboratif)*
-Secure HR portal for payslip consultation with OTP authentication and an AI chatbot assistant.
-- Authentification OTP avec stockage chiffré des fiches de paie
-- Chatbot IA (Gemini API) avec workflow admin/IA pour le traitement automatisé des demandes RH
-- Déploiement complet avec documentation technique
-
-**Stack:** Laravel, Livewire, Flask, Gemini API, MySQL
-
----
-
 ### Sayara *(Projet collaboratif, 2025)*
 Plateforme de location de voitures avec recherche géolocalisée et affichage cartographique.
 - Recherche et filtrage de véhicules basés sur la localisation de l'utilisateur
@@ -89,6 +79,16 @@ Plateforme de location de voitures avec recherche géolocalisée et affichage ca
 - Développement en binôme avec répartition des responsabilités frontend/backend
 
 **Stack:** Next.js, TypeScript, Prisma, Tailwind CSS, MongoDB
+
+---
+
+### Portail RH — AXELITES *(Stage PFE, 2025 — Projet collaboratif)*
+Secure HR portal for payslip consultation with OTP authentication and an AI chatbot assistant.
+- Authentification OTP avec stockage chiffré des fiches de paie
+- Chatbot IA (Gemini API) avec workflow admin/IA pour le traitement automatisé des demandes RH
+- Déploiement complet avec documentation technique
+
+**Stack:** Laravel, Livewire, Flask, Gemini API, MySQL
 
 ---
 
