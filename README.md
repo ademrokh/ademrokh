@@ -14,6 +14,9 @@ Full-stack developer with hands-on experience delivering real-world applications
   <a href="https://www.linkedin.com/in/adem-rokh-263b74390/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://x.com/fl1cktsu">
+    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
   <a href="https://github.com/ademrokh">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -72,40 +75,51 @@ Full-stack developer with hands-on experience delivering real-world applications
 
 ## Projects
 
-### Sayara *(Projet collaboratif, 2025)*
-Plateforme de location de voitures avec recherche géolocalisée et affichage cartographique.
-- Recherche et filtrage de véhicules basés sur la localisation de l'utilisateur
-- Système complet de réservation : authentification, disponibilité en temps réel, suivi et retour
-- Développement en binôme avec répartition des responsabilités frontend/backend
+### European Amen Bank *(Summer internship project / 2026)*
+Modern multilingual banking website with an AI-powered customer support experience and a Europeanized digital presence.
+- Multilingual experience with English, French, and Arabic pages and RTL-aware UI patterns
+- AI-powered chatbot assistant built on a RAG architecture for FAQ and customer support
+- Responsive banking experience with dedicated pages for agencies, contact, FAQ, and language-specific routes
+- Contact and admin document workflows to support a complete digital banking journey
+
+**Stack:** Next.js, TypeScript, Tailwind CSS, FastAPI, Python, ChromaDB, Groq
+
+---
+
+### Sayara *(Collaborative capstone project, 2026)*
+Car rental platform with geolocation search and map-based listings.
+- Search and filter vehicles based on user location
+- Full booking flow: authentication, availability checks, booking tracking and returns
+- Paired development with shared frontend/backend responsibilities
 
 **Stack:** Next.js, TypeScript, Prisma, Tailwind CSS, MongoDB
 
 ---
 
-### Portail RH — AXELITES *(Stage PFE, 2025 — Projet collaboratif)*
-Secure HR portal for payslip consultation with OTP authentication and an AI chatbot assistant.
-- Authentification OTP avec stockage chiffré des fiches de paie
-- Chatbot IA (Gemini API) avec workflow admin/IA pour le traitement automatisé des demandes RH
-- Déploiement complet avec documentation technique
+### HR Portal — AXELITES *(Final internship, 2025 — collaborative project)*
+Secure HR portal for payslip consultation with OTP authentication and an AI assistant.
+- OTP-based authentication with encrypted payslip storage
+- AI chatbot (Gemini API) with admin/AI workflow for automated HR request processing
+- Full deployment with technical documentation
 
 **Stack:** Laravel, Livewire, Flask, Gemini API, MySQL
 
 ---
 
-### Formini CNAFOR *(Stage de perfectionnement, 2024)*
-Application de gestion des formations pour CNAFOR.
-- Contrôle d'accès basé sur les rôles (administrateurs, formateurs, participants)
-- Gestion du planning des sessions, suivi des présences et tableaux de bord de reporting
-- Mis en production en collaboration directe avec l'équipe
+### Formini CNAFOR *(Professional development internship, 2024)*
+Training management application for CNAFOR.
+- Role-based access control (administrators, trainers, participants)
+- Session scheduling, attendance tracking and reporting dashboards
+- Deployed to production in collaboration with the team
 
 **Stack:** PHP, Bootstrap, PostgreSQL
 
 ---
 
 ### Forza Horizon Underground *(2024)*
-Site web de vente et location de véhicules.
-- Système complet de listing, recherche et réservation avec panneau d'administration
-- Développement fullstack : frontend, backend et base de données
+Vehicle sales and rental website.
+- Full listing, search and booking system with an admin panel
+- Fullstack development: frontend, backend and database
 
 **Stack:** PHP, HTML, CSS, Bootstrap, JavaScript
 
@@ -113,22 +127,29 @@ Site web de vente et location de véhicules.
 
 ## Experience
 
-**Stage PFE — AXELITES** *(02/2025 – 06/2025)*
-Conception et développement d'un portail RH sécurisé pour la consultation des fiches de paie.
+**Summer Internship — Amen Bank** *(06/2026 - 07/2026)*
 
-**Stage de Perfectionnement — CNAFOR** *(06/2024 – 07/2024)*
-Développement de Formini CNAFOR, application de gestion des formations.
+Worked on the European Amen Bank project contributing to frontend pages, RAG chatbot integration and accessibility improvements.
 
-**Stage d'Initiation — Orange Tunisie** *(01/2023 – 02/2023)*
-Découverte de l'environnement professionnel agile au sein d'une grande entreprise de télécommunications.
+**Final Internship — AXELITES** *(02/2025 – 06/2025)*
+
+Designed and developed a secure HR portal for payslip consultation.
+
+**Professional Development Internship — CNAFOR** *(06/2024 – 07/2024)*
+
+Developed Formini CNAFOR, a training management application.
+
+**Introductory Internship — Orange Tunisie** *(01/2023 – 02/2023)*
+
+Introduced to agile practices within a large telecommunications company.
 
 ---
 
 ## Education
 
-**Ingénierie en Génie Informatique** — ISET Zaghouan *(2022 – en cours)*  
-**Licence en Développement des Systèmes d'Information** — ISET Zaghouan *(2022 – 2025)*  
-**Baccalauréat Mathématiques** — Lycée El Mourouj 1 *(2022)*
+**Masters in Computer Engineering** — iTeam University *(2025 – present)*  
+**Bachelor's Degree in Information Systems Development** — ISET Zaghouan *(2022 – 2025)*  
+**Baccalaureate — Mathematics** — Lycée El Mourouj 1 *(2022)*
 
 ---
 
